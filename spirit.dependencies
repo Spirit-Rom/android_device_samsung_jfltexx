@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-12.0"
+  },
+  {
+    "remote": "sr",
+    "repository": "android_kernel_samsung_jf",
+    "target_path": "kernel/samsung/jf",
+    "revision": "lollipop"
+  }
+]
