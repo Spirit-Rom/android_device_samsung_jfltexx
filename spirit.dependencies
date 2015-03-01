@@ -22,5 +22,11 @@
     "repository": "android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
     "revision": "lollipop"
-  }
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-12.0"
+   }
 ]
