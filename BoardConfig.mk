@@ -28,3 +28,13 @@ include device/samsung/jf-common/BoardConfigCommon.mk
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := jfltexx,i9505,GT-I9505,jgedlte,i9505g,GT-I9505G,jflte
+
+# Compiler flags
+ENABLE_GCCONLY := true
+GRAPHITE_OPTS := true
+KRAIT_TUNINGS := true
+STRICT_ALIASING := true
+SUPPRES_UNUSED_WARNING := true
+TARGET_GCC_VERSION_EXP := 4.8
+TARGET_USE_PIPE := true
+USE_O3_OPTIMIZATIONS := true
