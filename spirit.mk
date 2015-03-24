@@ -1,3 +1,5 @@
+include device/samsung/jfltexx/sm.mk
+
 $(call inherit-product, device/samsung/jfltexx/full_jfltexx.mk)
 
 # Enhanced NFC
